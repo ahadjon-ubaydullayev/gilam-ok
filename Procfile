@@ -1,0 +1,1 @@
+web: gunicorn GilamXK.wsgi --log-file -
